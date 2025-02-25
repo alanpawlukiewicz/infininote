@@ -19,3 +19,21 @@ InfiniNote is a simple and intuitive mobile application for creating, editing, a
 - Customize theme and font
 
 - Dark mode
+
+## Installation
+
+1. Clone the repository:
+
+   `git clone https://github.com/alanpawlukiewicz/infininote.git`
+
+2. Navigate to the project directory:
+
+   `cd infininote`
+
+3. Install dependencies:
+
+   `flutter pub get`
+
+4. Run the application:
+
+   `flutter run`
